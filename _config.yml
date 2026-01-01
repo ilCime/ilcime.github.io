@@ -1,3 +1,6 @@
+repository: ilCime/ilcime.github.io
+github: [metadata]
+
 layout: sidebar
 style: light
 
@@ -8,6 +11,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+
 defaults:
   -
     scope:
@@ -17,6 +21,7 @@ defaults:
       layout: "post"
 
 projects:
+
   sort_by: pushed
   # sort_by options:
   #   - pushed
