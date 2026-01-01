@@ -1,12 +1,20 @@
 # 1. Identità del sito
 title: ilCime
-description: Software Developer # Scrivi qui la tua bio
+description: Electronic engineering student at UNIUD
 user_name: ilCime
 
 repository: ilCime/ilcime.github.io
 github:
   owner: ilCime
   repository: ilcime.github.io
+
+# 3. Parametri per la Sidebar (Masthead)
+# Molti template basati su questo usano queste variabili se i metadati falliscono
+author:
+  name: ilCime
+  bio: Software Developer
+  location: Italy # Opzionale
+
 layout: sidebar
 style: light
 
