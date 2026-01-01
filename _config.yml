@@ -1,6 +1,7 @@
 repository: ilCime/ilcime.github.io
-github: [metadata]
-
+github:
+  owner: ilCime
+  repository: ilcime.github.io
 layout: sidebar
 style: light
 
