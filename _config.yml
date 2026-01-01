@@ -1,3 +1,8 @@
+# 1. Identità del sito
+title: ilCime
+description: Software Developer # Scrivi qui la tua bio
+user_name: ilCime
+
 repository: ilCime/ilcime.github.io
 github:
   owner: ilCime
