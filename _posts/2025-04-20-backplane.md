@@ -37,4 +37,4 @@ Beyond the design, I performed the **manual soldering** of all connectors and he
 </div>
 
 ### Technical Conclusion
-By redesigning the Backplane, we achieved a more modular and reliable electronics suite. This project allowed me to bridge the gap between complex EDA software and practical hardware implementation in a high-performance environment.
+By redesigning the Backplane, we achieved a more modular and reliable electronics suite. This project allowed me to bridge the gap between complex EDA software and practical hardware implementation in a high-performance environment. 
